@@ -1,2 +1,1 @@
-# DLP-Printer-v1.0
-Arduino based, FDM printed "DLP Printer" v1.0
+You can visit this site for tutorial: https://akademi.robolinkmarket.com/arduino-tabanli-dlp-yazici/
